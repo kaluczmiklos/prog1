@@ -1,1 +1,1 @@
-# prog1
+# **PROG1 Kálucz Miklós**

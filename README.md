@@ -1,6 +1,6 @@
 # **PROG1 Kálucz Miklós**
 
-### Scratch
+### Első Scratch projekt.
 
 ## A nő kérésére a kutya leül, majd addig ugat amíg rá nem kattintunk, majd megköszöni.
 

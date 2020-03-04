@@ -5,4 +5,4 @@
 ## A nő kérésére a kutya leül, majd addig ugat amíg rá nem kattintunk, majd megköszöni.
 
 ![futás közben](Scratch.PNG)
-#### kép a program futásáról
+kép a program futásáról
